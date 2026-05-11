@@ -1,0 +1,9 @@
+# Ambientes Virtuais
+.venv/
+venv/
+
+# Dados
+data/landmarks.csv
+
+# VS Code
+.vscode/
