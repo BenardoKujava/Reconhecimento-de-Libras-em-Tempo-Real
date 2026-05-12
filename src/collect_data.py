@@ -50,7 +50,7 @@ while cap.isOpened():
             for lm in hand_landmarks.landmark:
                 current_landmarks.extend([lm.x, lm.y, lm.z])
 
-    cv2.imshow('Câmera', image)
+    cv2.imshow('Camera', image)
     
     key = cv2.waitKey(1) & 0xFF
 
