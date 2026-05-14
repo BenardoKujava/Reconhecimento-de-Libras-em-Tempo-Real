@@ -8,3 +8,6 @@ models/libras_model.pkl
 
 # VS Code
 .vscode/
+
+#Backup
+/src/main.py
