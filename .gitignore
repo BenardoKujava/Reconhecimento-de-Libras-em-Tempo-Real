@@ -1,0 +1,6 @@
+# Ambientes Virtuais
+.venv/
+venv/
+
+# VS Code
+.vscode/
